@@ -1,0 +1,25 @@
+body {
+  background-color: #333;
+  color: orange;
+}
+
+td {
+  width: 200px;
+  height: 200px;
+  border: 1px solid orange;
+  text-align: center;
+  font-size: 140px;
+}
+
+table {
+  border-spacing: 0;
+}
+
+#info {
+  font-size: 50px;
+  margin-left: 20px;
+}
+
+#game {
+  display: inline-flex;
+}
